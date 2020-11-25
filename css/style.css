@@ -8,7 +8,7 @@ body {
 }
 
 aside {
-  background: #003399;
+  background: #24b8dd;
   width: 25%;
   float: left;
   height: 100vh;
@@ -57,7 +57,7 @@ button:active {
 }
 
 .container button {
-  background: #003399;
+  background: #24b8dd;
   color: white;
 }
 
@@ -119,7 +119,7 @@ button:active {
   position: absolute;
   right: 20px;
   bottom: 20px;
-  background: #003399;
+  background: #24b8dd;
   width: 155px;
   border-radius: 18px;
   color: white;
@@ -133,7 +133,7 @@ button:active {
           clip-path: circle(14% at 84% 50%);
   -webkit-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
-  background: #003399;
+  background: #24b8dd;
   border-radius: 18px;
   padding: 8px 10px;
   border: none;
@@ -182,7 +182,7 @@ button:active {
   height: 10px;
   border-radius: 50%;
   content: '';
-  background-color: #5562eb;
+  background-color: #24b8dd;
   position: absolute;
   left: 50%;
   top: 50%;
